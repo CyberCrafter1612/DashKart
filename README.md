@@ -27,7 +27,7 @@ This Power BI dashboard analyzes Blinkit retail sales performance, providing ins
 - Power Query
 
  ## 🖼 Dashboard Preview
-![Dashboard Page 1](images/dashboard_page1.png)
+![Dashboard Page 1](https://github.com/CyberCrafter1612/DashKart/blob/main/Dashkart.png)
 
 
 
